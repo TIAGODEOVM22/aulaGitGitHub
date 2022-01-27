@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\faculdade tiago\\ProjetoIntegrador1\\ReconhecimentoFacial-master"
+		},
+		{
+			"path": "..\\..\\opencv"
+		},
+		{
+			"path": "..\\..\\opencv2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CursoJS"
+	}
+}
